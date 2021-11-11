@@ -7,3 +7,7 @@ tests
 sql
 
 pry
+
+debug
+
+failure management
