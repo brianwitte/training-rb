@@ -11,3 +11,5 @@ pry
 debug
 
 failure management
+
+devise
